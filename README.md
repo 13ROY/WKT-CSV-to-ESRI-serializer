@@ -2,7 +2,8 @@
 Convert to and from Well Known Text (WKT) to ESRI geometry
 
 ## To do
-1. Read CSV
+
+1. ~~Read CSV~~
 2. Convert geometry from WKT to ESRI format
 3. Create ESRI Shape/FGDB from CSV
 
